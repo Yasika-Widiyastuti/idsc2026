@@ -1,0 +1,10 @@
+
+hygd/
+Images/
+Labels.csv
+
+outputs/best_model.pth
+*.pth
+
+__pycache__/
+.ipynb_checkpoints/
